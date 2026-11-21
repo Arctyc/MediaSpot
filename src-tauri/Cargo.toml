@@ -1,8 +1,8 @@
 [package]
-name = "mediaspot"
+name = "MediaSpot"
 version = "0.1.0"
-description = "MediaSpot - movie, TV, book and game tracker"
-edition = "2021"
+description = "Personal media tracker for movies, TV, books, and video games."
+edition = "2026"
 
 [build-dependencies]
 tauri-build = { version = "2", features = [] }
